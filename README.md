@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-# ABOUT TASK 1
+#ABOUT TASK 1
 
 The Interactive Quiz Application developed in this project is a fully responsive, dynamic, and user-friendly web-based quiz system designed to provide learners with an engaging way to test their knowledge across various subjects. The application focuses on delivering a seamless quiz-taking experience through clean UI design, instant feedback, score tracking, and smooth transitions between questions. The entire project has been designed and developed using Visual Studio Code (VS Code), utilizing its extensions, debugging tools, and live preview features to ensure efficient development and a well-structured codebase. This quiz platform is ideal for educational use, skill practice, competitive exam preparation, or even fun trivia games.
 
